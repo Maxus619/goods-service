@@ -5,3 +5,5 @@
 ## Запуск
 
 `docker-compose up --build -d`
+
+Запросы отправлять по адресу: `localhost:8000/api/v1/`
